@@ -1,1 +1,2 @@
-sample file 2
+file2
+this is comparison letter sample
