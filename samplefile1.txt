@@ -4,3 +4,4 @@ sample file 1
 commit 1
 
 revert1
+reset1
