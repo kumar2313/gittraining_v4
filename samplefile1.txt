@@ -10,3 +10,5 @@ this is sample
 this is stash change file 1
 
 I am doing it after stash1
+
+this is new stash
