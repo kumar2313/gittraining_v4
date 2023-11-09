@@ -8,3 +8,5 @@ revert1
 reset1
 this is sample
 this is stash change file 1
+
+I am doing it after stash1
